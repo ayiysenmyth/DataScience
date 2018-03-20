@@ -1,2 +1,2 @@
 # DataScience
-Repository for playing with data science iniatives
+Repository for playing with data science initiatives
